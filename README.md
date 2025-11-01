@@ -1,1 +1,1 @@
-# Separate-the-Numbers
+# Separate-the-Numbers This code checks if a numeric string can be split into a sequence of consecutive increasing numbers and prints "YES" with the first number if possible, otherwise "NO". It does this by trying all possible starting number lengths, building the consecutive sequence, and comparing it to the input string.
